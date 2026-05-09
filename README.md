@@ -3,58 +3,64 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Software_Engineer-1a1a2e?style=flat&labelColor=16213e&color=e94560" alt="badge">
-  <img src="https://img.shields.io/badge/-Open_to_Work-1a1a2e?style=flat&labelColor=16213e&color=0f3460" alt="badge">
-  <img src="https://img.shields.io/badge/-Based_in-Egypt-1a1a2e?style=flat&labelColor=16213e&color=e94560" alt="badge">
+  <img src="https://img.shields.io/badge/-Software_Engineer-0f172a?style=flat&labelColor=1e293b&color=38bdf8" alt="badge">
+  <img src="https://img.shields.io/badge/-Open_to_Work-0f172a?style=flat&labelColor=1e293b&color=22c55e" alt="badge">
+  <img src="https://img.shields.io/badge/-Egypt-0f172a?style=flat&labelColor=1e293b&color=f59e0b" alt="badge">
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=pevooo&theme=midnight-purple">
-    <img src="https://streak-stats.demolab.com/?user=pevooo&theme=midnight-purple&border=30%2C0f3460&ring=e94560&fire=e94560&sideNums=e94560" alt="streak">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=pevooo&theme=midnight-purple&bg_color=1a1a2e&border_color=0f3460&show_icons=true&icon_color=e94560&title_color=e94560&text_color=c9d1d9&hide_border=true" height="180" alt="stats">
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=pevooo&theme=transparent&border=0&ring=38bdf8&fire=38bdf8&sideNums=38bdf8" alt="streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=pevooo&theme=transparent&bg_color=0&border_color=38bdf8&show_icons=true&icon_color=38bdf8&title_color=38bdf8&text_color=cbd5e1&hide_border=true" height="180" alt="stats">
 </p>
 
 <br>
 
-<h2 align="center">▸ LANGUAGES & FRAMEWORKS</h2>
+<h2 align="center">LANGUAGES & FRAMEWORKS</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" height="30">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=fff" height="30">
+</p>
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/javascript/javascript-original.svg" width="40"> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/typescript/typescript-original.svg" width="40"> TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/python/python-original.svg" width="40"> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/go/go-original.svg" width="40"> Go |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/react/react-original.svg" width="40"> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/vuejs/vuejs-original.svg" width="40"> Vue | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/nodejs/nodejs-original.svg" width="40"> Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/nestjs/nestjs-original.svg" width="40"> NestJS |
-
-</div>
-
-<br>
-
-<h2 align="center">▸ TOOLS & CLOUD</h2>
-
-<div align="center">
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/postgresql/postgresql-original.svg" width="40"> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/mongodb/mongodb-original.svg" width="40"> MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/redis/redis-original.svg" width="40"> Redis | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/docker/docker-original.svg" width="40"> Docker |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/kubernetes/kubernetes-original.svg" width="40"> Kubernetes | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"> AWS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/git/git-original.svg" width="40"> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/linux/linux-original.svg" width="40"> Linux |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" height="30">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff" height="30">
+</p>
 
 <br>
 
-<h2 align="center">▸ CONNECT</h2>
+<h2 align="center">TOOLS & CLOUD</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" height="30">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff" height="30">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000" height="30">
+</p>
+
+<br>
+
+<h2 align="center">CONNECT</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f3460?style=for-the-badge&logo=linkedin&logoColor=e94560&labelColor=1a1a2e)](https://linkedin.com/in/pavly-samuel)
-[![Email](https://img.shields.io/badge/Email-0f3460?style=for-the-badge&logo=gmail&logoColor=e94560&labelColor=1a1a2e)](mailto:pavly.samuel@email.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f3460?style=for-the-badge&logo=leetcode&logoColor=e94560&labelColor=1a1a2e)](https://leetcode.com/pavly-samuel)
-[![GitHub](https://img.shields.io/badge/GitHub-0f3460?style=for-the-badge&logo=github&logoColor=e94560&labelColor=1a1a2e)](https://github.com/pevooo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/pavly-samuel)
+[![Email](https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pavly.samuel@email.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-38bdf8?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/pavly-samuel)
+[![GitHub](https://img.shields.io/badge/GitHub-38bdf8?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pevooo)
 
 </div>
 
@@ -63,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pevooo&style=flat-square&color=e94560&label=Profile+Views" alt="views">
+  <img src="https://komarev.com/ghpvc/?username=pevooo&style=flat-square&color=38bdf8&label=Profile+Views" alt="views">
 </p>
 
 <br>
@@ -71,9 +77,9 @@
 <div align="center">
 
 ```
-┌────────────────────────────────────────────┐
-│           BUILDING THE FUTURE               │
-└────────────────────────────────────────────┘
+┌─────────────────────────────────────┐
+│         BUILDING THE FUTURE         │
+└─────────────────────────────────────┘
 ```
 
 </div>
