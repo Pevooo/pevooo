@@ -32,15 +32,15 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pavly-samuel/" target="_blank">
+<a href="https://www.linkedin.com/in/pavlysamuel/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:pavly.samuel@email.com">
+<a href="mailto:pavlysamuelatef@email.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/pavly-samuel">
+<a href="https://leetcode.com/u/Pevo/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -120,13 +120,13 @@
 
 ---
 
-# 🐍 Contribution Snake
+<!-- # 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pevooo/pevooo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
+--- -->
 
 # 💬 Developer Quote
 
