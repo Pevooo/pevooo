@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=200&section=header&text=Pavly%20Samuel&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1c6c8a&height=200&section=header&text=Pavly%20Samuel&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Pavly+Samuel;Software+Engineer;Full+Stack+Developer;Building+Scalable+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=1c6c8a&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Pavly+Samuel;Software+Engineer;Full+Stack+Developer;Building+Scalable+Applications"/>
 </h1>
 
 <h3 align="center">Software Engineer | Full Stack Developer | Egypt</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pevooo&label=Profile%20Views&color=a855f7&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=pevooo&label=Profile%20Views&color=1c6c8a&style=flat"/>
 </p>
 
 ---
@@ -141,5 +141,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1c6c8a&height=120&section=footer"/>
 </p>
