@@ -18,7 +18,11 @@
 
 🎓 Software Engineer with a passion for building robust applications  
 
-⚡ Full-Stack Developer specializing in **JavaScript/TypeScript, Python, and Go**  
+⚡ Former **Microsoft Intern** — gained hands-on experience with enterprise-scale solutions  
+
+🖥️ Full-Stack Developer specializing in **JavaScript/TypeScript, Python, and Go**  
+
+📱 Mobile Developer with expertise in **Android, Kotlin, and Flutter**  
 
 🛠️ Building scalable web applications with **React, Vue, Node.js, and NestJS**  
 
@@ -66,6 +70,15 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
 </p>
 
